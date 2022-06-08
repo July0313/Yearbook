@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b3c3f6ee89b0f4d8b4f8eb63d9f786, type: 3}
+  m_Name: CardSO
+  m_EditorClassIdentifier: 
+  cards:
+  - name: "\uCD5C\uD76C\uC9C4"
+    description: "GGM \uCD5C\uACE0 \uADC0\uC694\uBBF8"
+    attack: 100
+    defense: 50
+    sprite: {fileID: 21300000, guid: 4c7070bf1ff526640864ef319f9b4858, type: 3}
+  - name: "\uBC15\uC81C\uC778"
+    description: "\uBA54\uD0C0\uBABD"
+    attack: 120
+    defense: 40
+    sprite: {fileID: 21300000, guid: ebeb37d1565fffe469ed6dd61ae643b0, type: 3}
