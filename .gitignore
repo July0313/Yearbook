@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Scripts/MiniGame/Cactus.cs
+Assets/Scripts/MiniGame/Cactus.cs.meta
+Assets/Scripts/MiniGame/EnemyPool.cs
+Assets/Scripts/MiniGame/EnemyPool.cs.meta
+Assets/Scripts/MiniGame/GroundEnemy.cs
+Assets/Scripts/MiniGame/GroundEnemy.cs.meta
