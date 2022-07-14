@@ -19,5 +19,7 @@ public class DataManager : MonoBehaviour
         }
     }
 
-    public int coin = 0;
+    public int coin = 500;
+    public List<CardSO> cardMemories;
+    public List<int> unlockedNums;
 }

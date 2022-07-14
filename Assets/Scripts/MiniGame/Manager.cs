@@ -21,7 +21,8 @@ public class Manager : MonoBehaviour
         Time.timeScale = 0f;
 
         scoreTxt.text = "SCORE : " + Cactus.score;
-        CoinTxt.text = "COIN : " + Cactus.score / 10;
+        CoinTxt.text = "COIN : " + (Cactus.score / 5);
+        DataManager.instance.coin += (Cactus.score / 5);
     }
 
     private void OnDisable()
